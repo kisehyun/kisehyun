@@ -1,4 +1,4 @@
-### Hi there 👋
+# Introduction 👋
 
 ### * 이름 : 기세현
 
