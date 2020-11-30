@@ -1,6 +1,6 @@
 # :smile: Introduction
 
-### ABOUT ME
+### 1. ABOUT ME
 
 #### :name_badge: : 기세현
 
@@ -12,9 +12,9 @@
 
 #### :pencil2: : PYTHON / R
 <br>
-***
 
-### CERTIFICATE<br>
+
+### 2. CERTIFICATE<br>
 #### 1) ADSP
 #### 2) ADP(필기) + 실기(12/13)
 #### 3) 사회조사분석사 2급(필기)
