@@ -11,8 +11,9 @@
 #### * :school: : 국민대학교 빅데이터 경영통계 전공:computer:(휴학 / 2015 ~ )
 
 #### * :pencil2: : PYTHON / R
-
-### CERTIFICATE
+<br>
+***
+### CERTIFICATE<br>
 #### 1) ADSP
 #### 2) ADP(필기) + 실기(12/13)
 #### 3) 사회조사분석사 2급(필기)
