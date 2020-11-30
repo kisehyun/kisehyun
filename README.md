@@ -1,5 +1,7 @@
 # :smile: Introduction
 
+### ABOUT ME
+
 #### * :name_badge: : 기세현
 
 #### * :email: : ksh2162813@gmail.com
@@ -11,9 +13,9 @@
 #### * :pencil2: : PYTHON / R
 
 ### CERTIFICATE
-#### 1. ADSP
-#### 2. ADP(필기) + 실기(12/13)
-#### 3. 사회조사분석사 2급(필기)
+#### 1) ADSP
+#### 2) ADP(필기) + 실기(12/13)
+#### 3) 사회조사분석사 2급(필기)
 
 <!--
 **kisehyun/kisehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
