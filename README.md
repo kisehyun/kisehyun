@@ -2,17 +2,18 @@
 
 ### ABOUT ME
 
-#### * :name_badge: : 기세현
+#### :name_badge: : 기세현
 
-#### * :email: : ksh2162813@gmail.com
+#### :email: : ksh2162813@gmail.com
 
-#### * :pushpin: : 데이터 분석, 머신러닝, Vision, NLP etc.
+#### :pushpin: : 데이터 분석, 머신러닝, Vision, NLP etc.
 
-#### * :school: : 국민대학교 빅데이터 경영통계 전공:computer:(휴학 / 2015 ~ )
+#### :school: : 국민대학교 빅데이터 경영통계 전공:computer:(휴학 / 2015 ~ )
 
-#### * :pencil2: : PYTHON / R
+#### :pencil2: : PYTHON / R
 <br>
 ***
+
 ### CERTIFICATE<br>
 #### 1) ADSP
 #### 2) ADP(필기) + 실기(12/13)
