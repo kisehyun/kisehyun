@@ -33,8 +33,10 @@
 
 ### 2. CERTIFICATE<br>
 #### 1) ADSP
-#### 2) ADP(필기) + 실기(12/13)
+#### 2) ADP(필기) + 실기(12/13 시험)
 #### 3) 사회조사분석사 2급(필기)
+#### 4) 빅데이터분석기사(12/19 시험)
+#### 5) SQLD(향후)
 
 <!--
 **kisehyun/kisehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
