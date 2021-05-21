@@ -29,7 +29,7 @@
 ##### 2) ADP(필기)
 ##### 3) 사회조사분석사 2급(필기)
 ##### 4) SQLD
-
+##### 5) 빅데이터분석기사(필기)
 
 <!--
 **kisehyun/kisehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
