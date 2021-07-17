@@ -5,6 +5,7 @@
   
 </div>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kisehyun)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 1. 소개<br>
 ##### 이름 : 기세현
