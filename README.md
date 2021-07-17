@@ -42,8 +42,6 @@
 |LG 인화원||아르바이트|21.06.01 ~ 재직 중|python 프로그래밍 멘토링|
 
 
-<br>
-
 #### 5. 자격증<br>
 |자격증명|취득일|기관|비고|
 |---|---|---|---|
@@ -52,8 +50,6 @@
 |빅데이터분석기사|2021.04|한국데이터산업진흥원|필기 합격|
 |SQLD|2021.05|한국데이터산업진흥원|최종 합격|
 |ADP|2021.07|한국데이터산업진흥원|최종 합격|
-
-
 
 <!--
 **kisehyun/kisehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
