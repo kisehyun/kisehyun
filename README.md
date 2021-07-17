@@ -5,16 +5,10 @@
   
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kisehyun)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 1. 소개<br>
 ##### 이름 : 기세현
-##### 메일 : ksh2162813@gmail.com
-##### 학력 : 국민대 빅데이터 경영통계 전공:computer:(재학 / 2015 ~ )
-
 
 #### 2. 관심 분야
-
 ##### NLP, Tabular, Rec
 
 #### 3. 참여 대회
