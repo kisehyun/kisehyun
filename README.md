@@ -1,6 +1,6 @@
 # :smile: Introduction
   
-</div>
+<p alighn = 'center'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-13243?style=flat-square&logo=NumPy&logoColor=white"/></a>
