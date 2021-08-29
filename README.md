@@ -2,7 +2,7 @@
   
 </div>
 
-<img src="https://img.shields.io/badge/NumPy-E34F26?style=flat-square&logo=NumPy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NumPy-#143243?style=flat-square&logo=NumPy&logoColor=white"/></a>
 
 
 #### 1. 소개<br>
