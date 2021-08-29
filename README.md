@@ -2,7 +2,7 @@
   
 </div>
 
-https://img.shields.io/badge/-NumPy-#013243?style=flat&logo=NP
+<img src="https://img.shields.io/badge/-NumPy-#013243?style=flat&logo=NP">
 
 
 #### 1. 소개<br>
@@ -29,7 +29,3 @@ https://img.shields.io/badge/-NumPy-#013243?style=flat&logo=NP
 
 <!--
 **kisehyun/kisehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
