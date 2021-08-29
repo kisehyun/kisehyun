@@ -2,7 +2,7 @@
   
 </div>
 
-https://img.shields.io/badge/-[NumPy]-[#013243]?style=flat&logo=[NP]
+https://img.shields.io/badge/-NumPy-#013243?style=flat&logo=NP
 
 
 #### 1. 소개<br>
