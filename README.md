@@ -3,7 +3,7 @@
 </div>
 
 <img src="https://img.shields.io/badge/NumPy-13243?style=flat-square&logo=NumPy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=sklearn&logoColor=white"/></a>
 
 
 #### 1. 소개<br>
