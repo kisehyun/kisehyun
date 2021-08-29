@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/badge/NumPy-#013243?style=for-the-badge&logo=NumPy&logoColor=white">
 
-출처: https://byul91oh.tistory.com/214 [개발하는 감자 [: 개감]]
 
 #### 1. 소개<br>
 ##### 이름 : 기세현
